@@ -1,2 +1,4 @@
-theme: minima
+theme: jekyll-theme-minimal
+markdown: kramdown
+#theme: minima
 # remote_theme: jekyll/minima@d4d779a
