@@ -7,3 +7,5 @@ She studied physics at Barnard College (class of 2015), concentrating her resear
 their practice. 
 
 She returned to school in 2024 to pursue her PhD at UCLA, working with Thiago Puglieri, to combine scientific analysis, historical reconstruction, and art historical research into cultural heritage study, particularly of dyes, paints, and pigments. Alongside her PhD studies, she continues to work with M&K from afar. 
+
+Contact: njr2128@gmail.com
