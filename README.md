@@ -1,7 +1,7 @@
 # Naomi Rosenkranz
 [![DOI](https://zenodo.org/badge/949039647.svg)](https://doi.org/10.5281/zenodo.16756002)
 
-https://doi.org/10.5281/zenodo.16756003
+![headshot](../images/website_rosenkranz_headshot.jpg?raw=true)
 
 Naomi Rosenkranz is a PhD student in the Conservation of Material Culture in the [UCLA/Getty Interdepartmental Program in the Conservation of Cultural Heritage](https://conservation.ucla.edu/) (2024–) and the Assistant Director of the [Making and Knowing Project](https://www.makingandknowing.org/) (2015–). 
 
@@ -10,3 +10,5 @@ She studied physics at Barnard College (class of 2015), concentrating her resear
 She returned to school in 2024 to pursue her PhD at UCLA, working with Thiago Puglieri, to combine scientific analysis, historical reconstruction, and art historical research, particularly of dyes, paints, and pigments. Alongside her PhD studies, she continues to work with M&K from afar. She creates and leads hands-on workshops to share her passion for art, history, and science through making.
 
 Contact: njr2128@gmail.com
+
+![dyes-cochineal_header](../images/cochineal-dyed-textiles-mix.JPG?raw=true)
