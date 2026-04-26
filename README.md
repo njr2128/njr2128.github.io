@@ -1,7 +1,6 @@
 # Naomi Rosenkranz
 [![DOI](https://zenodo.org/badge/949039647.svg)](https://doi.org/10.5281/zenodo.16756002)
 
-![headshot](../images/website_rosenkranz_headshot.jpg?raw=true)
 <img src="../images/website_rosenkranz_headshot.jpg?raw=true" width="200">
 
 Naomi Rosenkranz is a PhD student in the Conservation of Material Culture in the [UCLA/Getty Interdepartmental Program in the Conservation of Cultural Heritage](https://conservation.ucla.edu/) (2024–) and the Assistant Director of the [Making and Knowing Project](https://www.makingandknowing.org/) (2015–). 
@@ -14,4 +13,5 @@ She returned to school in 2024 to pursue her PhD at UCLA, working with Thiago Pu
 
 Contact: njr2128@gmail.com
 
-![dyes-cochineal_header](../images/cochineal-dyed-textiles-mix.JPG?raw=true)
+![dyes-pigments-cochineal](../images/pigment-cochineal-header.png?raw=true)
+_Textiles and lake pigments prepared with cochineal insects following historical recipes_
