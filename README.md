@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/949039647.svg)](https://doi.org/10.5281/zenodo.16756002)
 
 ![headshot](../images/website_rosenkranz_headshot.jpg?raw=true)
-<img src="../images/website_rosenkranz_headshot.jpg?raw=true" width="100" height="100">
+<img src="../images/website_rosenkranz_headshot.jpg?raw=true" width="200">
 
 Naomi Rosenkranz is a PhD student in the Conservation of Material Culture in the [UCLA/Getty Interdepartmental Program in the Conservation of Cultural Heritage](https://conservation.ucla.edu/) (2024–) and the Assistant Director of the [Making and Knowing Project](https://www.makingandknowing.org/) (2015–). 
 
